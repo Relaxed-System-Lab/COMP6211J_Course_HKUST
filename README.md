@@ -47,11 +47,11 @@ In recent years, foundation models have fundamentally revolutionized the state-o
     - The proposed research plan is executable. (10%)
     - The proposed research plan includes novelty and concrete design. (10%) 
     - Page limits: 4 pages in NeurIPS template (excluding reference).
-In-class Presentation (30%):  
-    - Clearly organize the material and present the problem definition, related work, and methodology appropriately. (20%)
-    - Can answer the questions from the lecturers and other students appropriately. (5%)
-    - Submit short feedback for all the other presentation sessions. (5%) 
-    - (Other student feedback determines 70% of the grades for this part.)
+- In-class Presentation (30%):  
+  - Clearly organize the material and present the problem definition, related work, and methodology appropriately. (20%)
+  - Can answer the questions from the lecturers and other students appropriately. (5%)
+  - Submit short feedback for all the other presentation sessions. (5%) 
+  - (Other student feedback determines 70% of the grades for this part.)
 
 ## Topics for presentation:
 
