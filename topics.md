@@ -1,6 +1,6 @@
 # Topics for Literature Review
 
-## Tensor Program Optimization
+## 1 - Tensor Program Optimization
 
 ```latex
 @inproceedings{feng2023tensorir,
@@ -20,9 +20,9 @@
 }
 ```
 
-## Beyond Transformer Architecture
+## 2 - Beyond Transformer Architecture
 
-```
+```latex
 @article{gu2023mamba,
   title={Mamba: Linear-time sequence modeling with selective state spaces},
   author={Gu, Albert and Dao, Tri},
@@ -31,7 +31,7 @@
 }
 ```
 
-## NPU Architecture
+## 3 - NPU Architecture
 
 ```latex
 @inproceedings{liao2021ascend,
@@ -44,7 +44,7 @@
 }
 ```
 
-## TPU Architecture
+## 4 - TPU Architecture
 
 ```latex
 @article{norrie2021design,
@@ -67,7 +67,7 @@
 }
 ```
 
-## Collective Communication Optimization
+## 5 - Collective Communication Optimization
 
 ```latex
 @inproceedings{cowan2023mscclang,
@@ -87,7 +87,7 @@
 }
 ```
 
-## In Network Aggregation
+## 6 - In Network Aggregation
 
 ```latex
 @inproceedings{lao2021atp,
@@ -107,7 +107,7 @@
 }
 ```
 
-## Fairness in ML Service
+## 7 - Fairness in ML Service
 
 ```latex
 @inproceedings{ghodsi2012multi,
@@ -127,7 +127,7 @@
 }
 ```
 
-## Multi-Tenant LLM Service
+## 8 - Multi-Tenant LLM Service
 
 ```latex
 @article{chen2024punica,
@@ -149,7 +149,7 @@
 }
 ```
 
-## Data Parallel System Optimization
+## 9 - Data Parallel System Optimization
 
 ```latex
 @article{li13pytorch,
@@ -169,9 +169,9 @@
 }
 ```
 
-## Data Parallel Algorithmic Optimization - Gradient Compression
+## 10 - Data Parallel Algorithmic Optimization - Gradient Compression
 
-```
+```latex
 @article{alistarh2017qsgd,
   title={QSGD: Communication-efficient SGD via gradient quantization and encoding},
   author={Alistarh, Dan and Grubic, Demjan and Li, Jerry and Tomioka, Ryota and Vojnovic, Milan},
@@ -190,9 +190,9 @@
 }
 ```
 
-## Data Parallel Algorithmic Optimization - Asynchronous Training
+## 11 - Data Parallel Algorithmic Optimization - Asynchronous Training
 
-```
+```latex
 @inproceedings{zhou2018distributed,
   title={Distributed asynchronous optimization with unbounded delays: How slow can you go?},
   author={Zhou, Zhengyuan and Mertikopoulos, Panayotis and Bambos, Nicholas and Glynn, Peter and Ye, Yinyu and Li, Li-Jia and Fei-Fei, Li},
@@ -203,9 +203,9 @@
 }
 ```
 
-## Data Parallel Algorithmic Optimization - Decentralized Communication
+## 12 - Data Parallel Algorithmic Optimization - Decentralized Communication
 
-```
+```latex
 @article{lian2017can,
   title={Can decentralized algorithms outperform centralized algorithms? a case study for decentralized parallel stochastic gradient descent},
   author={Lian, Xiangru and Zhang, Ce and Zhang, Huan and Hsieh, Cho-Jui and Zhang, Wei and Liu, Ji},
@@ -215,9 +215,9 @@
 }
 ```
 
-## Pipeline Parallel System Optimization
+## 13 - Pipeline Parallel System Optimization
 
-```
+```latex
 @inproceedings{qi2024zero,
   title={Zero Bubble (Almost) Pipeline Parallelism},
   author={Qi, Penghui and Wan, Xinyi and Huang, Guangxing and Lin, Min},
@@ -235,9 +235,9 @@
 }
 ```
 
-## Tensor Model Parallel System Optimization
+## 14 - Tensor Model Parallel System Optimization
 
-```
+```latex
 @article{zhuang2023optimizing,
   title={On optimizing the communication of model parallelism},
   author={Zhuang, Yonghao and Zheng, Lianmin and Li, Zhuohan and Xing, Eric and Ho, Qirong and Gonzalez, Joseph and Stoica, Ion and Zhang, Hao and Zhao, Hexu},
@@ -247,9 +247,9 @@
 }
 ```
 
-## Optimizer Parallel System Optimization
+## 15 - Optimizer Parallel System Optimization
 
-```
+```latex
 @article{zhao2023pytorch,
   title={PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel},
   author={Zhao, Yanli and Gu, Andrew and Varma, Rohan and Luo, Liang and Huang, Chien-Chin and Xu, Min and Wright, Less and Shojanazeri, Hamid and Ott, Myle and Shleifer, Sam and others},
@@ -262,9 +262,9 @@
 }
 ```
 
-## Long Sequence Parallel Training
+## 16 - Long Sequence Parallel Training
 
-```
+```latex
 @inproceedings{jacobs2024system,
   title={System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models},
   author={Jacobs, Sam Ade and Tanaka, Masahiro and Zhang, Chengming and Zhang, Minjia and Aminadabi, Reza Yazdani and Song, Shuaiwen Leon and Rajbhandari, Samyam and He, Yuxiong},
@@ -280,9 +280,9 @@
 }
 ```
 
-## Mixture of Expert Parallel Training
+## 17 - Mixture of Expert Parallel Training
 
-```
+```latex
 @article{gale2023megablocks,
   title={Megablocks: Efficient sparse training with mixture-of-experts},
   author={Gale, Trevor and Narayanan, Deepak and Young, Cliff and Zaharia, Matei},
@@ -302,9 +302,9 @@
 }
 ```
 
-## Offloading Training System
+## 18 - Offloading Training System
 
-```
+```latex
 @inproceedings{rajbhandari2021zero,
   title={Zero-infinity: Breaking the gpu memory wall for extreme scale deep learning},
   author={Rajbhandari, Samyam and Ruwase, Olatunji and Rasley, Jeff and Smith, Shaden and He, Yuxiong},
@@ -314,9 +314,9 @@
 }
 ```
 
-## Auto Parallelism
+## 19 - Auto Parallelism
 
-```
+```latex
 @inproceedings{zheng2022alpa,
   title={Alpa: Automating inter-and $\{$Intra-Operator$\}$ parallelism for distributed deep learning},
   author={Zheng, Lianmin and Li, Zhuohan and Zhang, Hao and Zhuang, Yonghao and Chen, Zhifeng and Huang, Yanping and Wang, Yida and Xu, Yuanzhong and Zhuo, Danyang and Xing, Eric P and others},
@@ -337,9 +337,9 @@
 }
 ```
 
-## Robust Training
+## 20 - Robust Training
 
-```
+```latex
 @inproceedings{jang2023oobleck,
   title={Oobleck: Resilient distributed training of large models using pipeline templates},
   author={Jang, Insu and Yang, Zhenning and Zhang, Zhen and Jin, Xin and Chowdhury, Mosharaf},
@@ -357,9 +357,9 @@
 }
 ```
 
-## LLM Inference - Weight and Activation Compression
+## 21 - LLM Inference Weight and Activation Compression
 
-```
+```latex
 @article{lin2024awq,
   title={AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration},
   author={Lin, Ji and Tang, Jiaming and Tang, Haotian and Yang, Shang and Chen, Wei-Ming and Wang, Wei-Chen and Xiao, Guangxuan and Dang, Xingyu and Gan, Chuang and Han, Song},
@@ -379,9 +379,9 @@
 }
 ```
 
-## LLM Inference KV Cache Compression
+## 22 - LLM Inference KV Cache Compression
 
-```
+```latex
 @article{zhang2024h2o,
   title={H2o: Heavy-hitter oracle for efficient generative inference of large language models},
   author={Zhang, Zhenyu and Sheng, Ying and Zhou, Tianyi and Chen, Tianlong and Zheng, Lianmin and Cai, Ruisi and Song, Zhao and Tian, Yuandong and R{\'e}, Christopher and Barrett, Clark and others},
@@ -398,9 +398,9 @@
 }
 ```
 
-## LLM Speculative and Parallel Decoding
+## 23 - LLM Speculative and Parallel Decoding
 
-```
+```latex
 @inproceedings{miao2024specinfer,
   title={Specinfer: Accelerating large language model serving with tree-based speculative inference and verification},
   author={Miao, Xupeng and Oliaro, Gabriele and Zhang, Zhihao and Cheng, Xinhao and Wang, Zeyu and Zhang, Zhengxin and Wong, Rae Ying Yee and Zhu, Alan and Yang, Lijie and Shi, Xiaoxiang and others},
@@ -416,9 +416,9 @@
 }
 ```
 
-## Offloading Inference System
+## 24 - Offloading Inference System
 
-```
+```latex
 @inproceedings{sheng2023flexgen,
   title={Flexgen: High-throughput generative inference of large language models with a single gpu},
   author={Sheng, Ying and Zheng, Lianmin and Yuan, Binhang and Li, Zhuohan and Ryabinin, Max and Chen, Beidi and Liang, Percy and R{\'e}, Christopher and Stoica, Ion and Zhang, Ce},
@@ -429,9 +429,9 @@
 }
 ```
 
-## Disaggregate Generative Inference
+## 25 - Disaggregate Generative Inference
 
-```
+```latex
 @inproceedings{zhong2024distserve,
   title={$\{$DistServe$\}$: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving},
   author={Zhong, Yinmin and Liu, Shengyu and Chen, Junda and Hu, Jianbo and Zhu, Yibo and Liu, Xuanzhe and Jin, Xin and Zhang, Hao},
@@ -447,5 +447,146 @@
   pages={118--132},
   year={2024},
   organization={IEEE}
+}
+```
+
+## 26 - Parallel Inference for Diffusion Model
+
+```latex
+@inproceedings{li2024distrifusion,
+  title={Distrifusion: Distributed parallel inference for high-resolution diffusion models},
+  author={Li, Muyang and Cai, Tianle and Cao, Jiaxin and Zhang, Qinsheng and Cai, Han and Bai, Junjie and Jia, Yangqing and Li, Kai and Han, Song},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7183--7193},
+  year={2024}
+}
+```
+
+## 27 - Retrieval Augmented Generation Embedding Models
+
+```latex
+@inproceedings{muennighoff2023mteb,
+  title={MTEB: Massive Text Embedding Benchmark},
+  author={Muennighoff, Niklas and Tazi, Nouamane and Magne, Loic and Reimers, Nils},
+  booktitle={Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics},
+  pages={2014--2037},
+  year={2023}
+}
+```
+
+## 28 - Retrieval Augmented Generation Chunk Optimization
+
+```latex
+@inproceedings{sarthiraptor,
+  title={RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval},
+  author={Sarthi, Parth and Abdullah, Salman and Tuli, Aditi and Khanna, Shubh and Goldie, Anna and Manning, Christopher D},
+  booktitle={The Twelfth International Conference on Learning Representations}
+}
+```
+
+## 29 - Retrieval Augmented Generation Adaptive Retrieval
+
+```latex
+@inproceedings{jiang2023active,
+  title={Active Retrieval Augmented Generation},
+  author={Jiang, Zhengbao and Xu, Frank F and Gao, Luyu and Sun, Zhiqing and Liu, Qian and Dwivedi-Yu, Jane and Yang, Yiming and Callan, Jamie and Neubig, Graham},
+  booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+  pages={7969--7992},
+  year={2023}
+}
+```
+
+## 30 - Retrieval Augmented Generation ReRanking
+
+```latex
+@article{yu2024rankrag,
+  title={RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs},
+  author={Yu, Yue and Ping, Wei and Liu, Zihan and Wang, Boxin and You, Jiaxuan and Zhang, Chao and Shoeybi, Mohammad and Catanzaro, Bryan},
+  journal={arXiv preprint arXiv:2407.02485},
+  year={2024}
+}
+```
+
+## 31 - Security in Retrieval Augmented Generation
+
+```latex
+@inproceedings{kangc,
+  title={C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models},
+  author={Kang, Mintong and G{\"u}rel, Nezihe Merve and Yu, Ning and Song, Dawn and Li, Bo},
+  booktitle={Forty-first International Conference on Machine Learning}
+}
+```
+
+## 32 - Multi-LLM Interaction
+
+```latex
+@article{wang2024mixture,
+  title={Mixture-of-Agents Enhances Large Language Model Capabilities},
+  author={Wang, Junlin and Wang, Jue and Athiwaratkun, Ben and Zhang, Ce and Zou, James},
+  journal={arXiv preprint arXiv:2406.04692},
+  year={2024}
+}
+
+@article{mangal2024coalitions,
+  title={Coalitions of Large Language Models Increase the Robustness of AI Agents},
+  author={Mangal, Prattyush and Mak, Carol and Kanakis, Theo and Donovan, Timothy and Braines, Dave and Pyzer-Knapp, Edward},
+  journal={arXiv preprint arXiv:2408.01380},
+  year={2024}
+}
+```
+
+## 33 - Table-Augmented Generation
+
+```latex
+@article{biswal2024text2sql,
+  title={Text2SQL is Not Enough: Unifying AI and Databases with TAG},
+  author={Biswal, Asim and Patel, Liana and Jha, Siddarth and Kamsetty, Amog and Liu, Shu and Gonzalez, Joseph E and Guestrin, Carlos and Zaharia, Matei},
+  journal={arXiv preprint arXiv:2408.14717},
+  year={2024}
+}
+```
+
+## 34 - Multimodal Retrieval Augmented Generation
+
+```latex
+@inproceedings{chen2022murag,
+  title={MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text},
+  author={Chen, Wenhu and Hu, Hexiang and Chen, Xi and Verga, Pat and Cohen, William},
+  booktitle={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
+  pages={5558--5570},
+  year={2022}
+}
+```
+
+## 35 - Text Image Generation
+
+```latex
+@inproceedings{esser2024scaling,
+  title={Scaling rectified flow transformers for high-resolution image synthesis},
+  author={Esser, Patrick and Kulal, Sumith and Blattmann, Andreas and Entezari, Rahim and M{\"u}ller, Jonas and Saini, Harry and Levi, Yam and Lorenz, Dominik and Sauer, Axel and Boesel, Frederic and others},
+  booktitle={Forty-first International Conference on Machine Learning},
+  year={2024}
+}
+```
+
+## 36 - Text Video Generation
+
+```latex
+@article{yang2024cogvideox,
+  title={Cogvideox: Text-to-video diffusion models with an expert transformer},
+  author={Yang, Zhuoyi and Teng, Jiayan and Zheng, Wendi and Ding, Ming and Huang, Shiyu and Xu, Jiazheng and Yang, Yuanming and Hong, Wenyi and Zhang, Xiaohan and Feng, Guanyu and others},
+  journal={arXiv preprint arXiv:2408.06072},
+  year={2024}
+}
+```
+
+## 37 - Text-to-3D Asset Generation
+
+```latex
+@article{bensadoun2024meta,
+  title={Meta 3D Gen},
+  author={Bensadoun, Raphael and Monnier, Tom and Kleiman, Yanir and Kokkinos, Filippos and Siddiqui, Yawar and Kariya, Mahendra and Harosh, Omri and Shapovalov, Roman and Graham, Benjamin and Garreau, Emilien and others},
+  journal={arXiv preprint arXiv:2407.02599},
+  year={2024}
 }
 ```
