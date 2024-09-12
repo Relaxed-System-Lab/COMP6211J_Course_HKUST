@@ -21,7 +21,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 | Date | Topic |
 |-----|------|
 | W1 - 09/03, 09/05  | Introduction and Logistics [[Slides]](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST/blob/main/Lecture%201%20-%20Introduction%20and%20Logistics.pdf) & Stochastic Gradient Descent [[Slides]](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST/blob/main/Lecture%202%20-%20Stochastic%20Gradient%20Descent.pdf)|
-| W2 - 09/10, 09/12  | Auto-Differentiation [[Slides]](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST/blob/main/Lecture%203%20-%20Automatic%20Differentiation.pdf) & Nvidia GPU Computation and Communication |
+| W2 - 09/10, 09/12  | Auto-Differentiation [[Slides]](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST/blob/main/Lecture%203%20-%20Automatic%20Differentiation.pdf) & Nvidia GPU Computation and Communication [[Slides]](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST/blob/main/Lecture%204%20-%20Nvidia%20GPU%20Computation%20and%20Communication.pdf)|
 | W3 – 09/17, 09/19  | Transformer Architecture & Large-scale Pretrain Overview |
 | W4 - 09/24, 09/26  | Data-, Pipeline- Parallelism & Tensor Model-, Optimizer- Parallelism |
 | W5 - 10/03         | Generative Inference Overview |
