@@ -22,11 +22,11 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |-----|------|
 | W1 - 09/03, 09/05  | Introduction and Logistics [[Slides]](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST/blob/main/Lecture%201%20-%20Introduction%20and%20Logistics.pdf) & Stochastic Gradient Descent [[Slides]](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST/blob/main/Lecture%202%20-%20Stochastic%20Gradient%20Descent.pdf)|
 | W2 - 09/10, 09/12  | Auto-Differentiation [[Slides]](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST/blob/main/Lecture%203%20-%20Automatic%20Differentiation.pdf) & Nvidia GPU Computation and Communication [[Slides]](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST/blob/main/Lecture%204%20-%20Nvidia%20GPU%20Computation%20and%20Communication.pdf)|
-| W3 – 09/17, 09/19  | Transformer Architecture & Large-scale Pretrain Overview |
-| W4 - 09/24, 09/26  | Data-, Pipeline- Parallelism & Tensor Model-, Optimizer- Parallelism |
+| W3 – 09/17, 09/19  | LLM Pretraining [[Slides]](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST/blob/main/Lecture%205%20-%20LLM%20Pretraining.pdf) & Data-, Pipeline- Parallelism |
+| W4 - 09/24, 09/26  | Tensor Model-, Optimizer- Parallelism  & LLM Tuning and Utilization |
 | W5 - 10/03         | Generative Inference Overview |
 | W6 - 10/08, 10/10  | Alogirhtm Optimizations for Inference & System Optimizations for Inference |
-| W7 - 10/15, 10/17  | Retrivial Augument Generation & LLM Agent for Domain Specific Areas | 
+| W7 - 10/15, 10/17  | RAG and Domain Specific LLM Agent & Review | 
 | W8 - 10/22, 10/24  | Presentation Sessions |
 | W9 – 10/29, 10/31  | Presentation-Sessions |
 | W10 - 11/05, 11/07 | Presentation-Sessions |
