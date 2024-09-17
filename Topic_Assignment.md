@@ -1,0 +1,122 @@
+# COMP 6211J Topics Allocation
+
+### Suggested Topics:
+
+- 1 - Tensor Program Optimization
+    - WU, Yangfan [ywuhe@connect.ust.hk](mailto:ywuhe@connect.ust.hk)
+- 2 - Beyond Transformer Architecture
+    - LAI, Wing Yin	[wylaiaj@connect.ust.hk](mailto:wylaiaj@connect.ust.hk)
+    - KWAN, Leong Chit Jeff	[lcjkwanaa@connect.ust.hk](mailto:lcjkwanaa@connect.ust.hk)
+    - ZHU, Han [hzhubo@connect.ust.hk](mailto:hzhubo@connect.ust.hk)
+- 3 - NPU Architecture
+    - LUK, Pak Him	[phluk@connect.ust.hk](mailto:phluk@connect.ust.hk)
+    - PENG, Junyao	[jpengau@connect.ust.hk](mailto:jpengau@connect.ust.hk)
+- 4 - TPU Architecture
+    - YANG, Bohan [byangay@connect.ust.hk](mailto:byangay@connect.ust.hk)
+- 5 - Collective Communication Optimization
+    - LI, Qijing	[qlicw@connect.ust.hk](mailto:qlicw@connect.ust.hk)
+- 6 - In Network Aggregation
+    - LIU, Xiangzhou [xliugg@connect.ust.hk](mailto:xliugg@connect.ust.hk)
+- 7 - Fairness in ML Service
+    - FENG, Zhaoxin [zfengbd@connect.ust.hk](mailto:zfengbd@connect.ust.hk)
+- 8 - Multi-Tenant LLM Service
+    - LI, Yuxuan [ylisn@connect.ust.hk](mailto:ylisn@connect.ust.hk)
+    - ZHOU, Yukun	[yzhoufw@connect.ust.hk](mailto:yzhoufw@connect.ust.hk)
+- 9 - Data Parallel System Optimization
+    - CAO, Chuxue [ccaoai@connect.ust.hk](mailto:ccaoai@connect.ust.hk)
+- 10 - Data Parallel Algorithmic Optimization - Gradient Compression
+    - DONG, Qi [qdongaf@connect.ust.hk](mailto:qdongaf@connect.ust.hk)
+- ~~11 - Data Parallel Algorithmic Optimization - Asynchronous Training~~
+- ~~12 - Data Parallel Algorithmic Optimization - Decentralized Communication~~
+- ~~13 - Pipeline Parallel System Optimization~~
+- ~~14 - Tensor Model Parallel System Optimization~~
+- 15 - Optimizer Parallel System Optimization
+    - ZHAO, Xi	[xzhaoca@connect.ust.hk](mailto:xzhaoca@connect.ust.hk)
+- 16 - Long Sequence Parallel Training
+    - JIANG, Xiaoxiao [xjiangbp@connect.ust.hk](mailto:xjiangbp@connect.ust.hk)
+    - KIM, Hyeonjae	[hkimar@connect.ust.hk](mailto:hkimar@connect.ust.hk)
+- 17 - Mixture of Expert Parallel Training
+    - HE, Zhitao [zhebu@connect.ust.hk](mailto:zhebu@connect.ust.hk)
+    - LIU, Yulong	[yliuom@connect.ust.hk](mailto:yliuom@connect.ust.hk)
+    - XU, Weiqing [wxucd@connect.ust.hk](mailto:wxucd@connect.ust.hk)
+- 18 - Offloading Training System
+    - WANG, Jiashu	[jwangjv@connect.ust.hk](mailto:jwangjv@connect.ust.hk)
+- 19 - Auto Parallelism
+    - TAN, Huiri [htanaj@connect.ust.hk](mailto:htanaj@connect.ust.hk)
+- 20 - Robust Training
+    - ZHU, Fangqi [fzhuah@connect.ust.hk](mailto:fzhuah@connect.ust.hk)
+- 21 - LLM Inference Weight and Activation Compression
+    - LI, Lujun	[lliee@connect.ust.hk](mailto:lliee@connect.ust.hk)
+    - LI, Jia [jlimh@connect.ust.hk](mailto:jlimh@connect.ust.hk)
+    - TAN, Yonghao	[ytanaz@connect.ust.hk](mailto:ytanaz@connect.ust.hk)
+- 22 - LLM Inference KV Cache Compression
+    - CHEN, Jingcan [jchenhv@connect.ust.hk](mailto:jchenhv@connect.ust.hk)
+    - CHEN, Wei [wchendb@connect.ust.hk](mailto:wchendb@connect.ust.hk)
+    - YANG, Qirui [qyangau@connect.ust.hk](mailto:qyangau@connect.ust.hk)
+- 23 - LLM Speculative and Parallel Decoding
+    - CHANG, Chaokun	[cchangai@connect.ust.hk](mailto:cchangai@connect.ust.hk)
+    - DONG, Pingcheng	[pdongaa@connect.ust.hk](mailto:pdongaa@connect.ust.hk)
+    - LIN, Hangyu	[hlinbm@connect.ust.hk](mailto:hlinbm@connect.ust.hk)
+- 24 - Offloading Inference System
+    - CHAI, Wen Jye [wjchai@connect.ust.hk](mailto:wjchai@connect.ust.hk)
+    - PANG, Ching Christie [ccpangaa@connect.ust.hk](mailto:ccpangaa@connect.ust.hk)
+    - WU, Ze	[zwubn@connect.ust.hk](mailto:zwubn@connect.ust.hk)
+- 25 - Disaggregate Generative Inference
+    - CAO, Lunxi [lcaoar@connect.ust.hk](mailto:lcaoar@connect.ust.hk)
+    - YAN, Ran	[ryanaf@connect.ust.hk](mailto:ryanaf@connect.ust.hk)
+- 26 - Parallel Inference for Diffusion Model
+    - GU, Bohai [bguab@connect.ust.hk](mailto:bguab@connect.ust.hk)
+    - LU, Xiaocheng	[xlubl@connect.ust.hk](mailto:xlubl@connect.ust.hk)
+    - LIU, Xinyu [xliugd@connect.ust.hk](mailto:xliugd@connect.ust.hk)
+    - LIU, Zeyu	[zliugj@connect.ust.hk](mailto:zliugj@connect.ust.hk)
+- 27 - Retrieval Augmented Generation Embedding Models
+    - LAU, Kwun Hang [khlaube@connect.ust.hk](mailto:khlaube@connect.ust.hk)
+    - FANG, Wenji [wfang838@connect.ust.hk](mailto:wfang838@connect.ust.hk)
+- 28 - Retrieval Augmented Generation Chunk Optimization
+    - KIM, Jounghoon [jkimcv@connect.ust.hk](mailto:jkimcv@connect.ust.hk)
+- 29 - Retrieval Augmented Generation Adaptive Retrieval
+    - CHAN, Chi-min [cchanbc@connect.ust.hk](mailto:cchanbc@connect.ust.hk)
+    - WEN, Pengcheng	[pwenab@connect.ust.hk](mailto:pwenab@connect.ust.hk)
+- 30 - Retrieval Augmented Generation ReRanking
+    - ELMOMA, Nathanael Tesfaye	[ntelmoma@connect.ust.hk](mailto:ntelmoma@connect.ust.hk)
+    - HE, Guangxin	[gheaf@connect.ust.hk](mailto:gheaf@connect.ust.hk)
+- 31 - Security in Retrieval Augmented Generation
+    - HUANG, Ruixuan [rhuangbi@connect.ust.hk](mailto:rhuangbi@connect.ust.hk)
+    - SHI, Weijie [wshiah@connect.ust.hk](mailto:wshiah@connect.ust.hk)
+- 32 - Multi-LLM Interaction
+    - DING, Fangyu	[fdingad@connect.ust.hk](mailto:fdingad@connect.ust.hk)
+    - LI, Chenyue [clieh@connect.ust.hk](mailto:clieh@connect.ust.hk)
+    - ZHU, Xiaomeng [xzhubr@connect.ust.hk](mailto:xzhubr@connect.ust.hk)
+- 33 - Table-Augmented Generation
+    - PENG, You [ypengbt@connect.ust.hk](mailto:ypengbt@connect.ust.hk)
+    - ZHANG, Xinyi	[xzhangfz@connect.ust.hk](mailto:xzhangfz@connect.ust.hk)
+- 34 - Multimodal Retrieval Augmented Generation
+    - CHEN, Yiwei [ychenmb@connect.ust.hk](mailto:ychenmb@connect.ust.hk)
+    - FRIESKE, Rita	[rmfrieske@connect.ust.hk](mailto:rmfrieske@connect.ust.hk)
+    - YE, Zhen	[zyebe@connect.ust.hk](mailto:zyebe@connect.ust.hk)
+    - ZHANG, Yizhen [yzhangtf@connect.ust.hk](mailto:yzhangtf@connect.ust.hk)
+- 35 - Text Image Generation
+    - CHEN, Shanwen [schenfh@connect.ust.hk](mailto:schenfh@connect.ust.hk)
+    - CHEN, Xi	[xchengx@connect.ust.hk](mailto:xchengx@connect.ust.hk)
+    - WANG, Jinjian	[jwangjx@connect.ust.hk](mailto:jwangjx@connect.ust.hk)
+    - XU, Chi	[cxubs@connect.ust.hk](mailto:cxubs@connect.ust.hk)
+- 36 - Text Video Generation
+    - LIU, Jiazhen [jliugj@connect.ust.hk](mailto:jliugj@connect.ust.hk)
+    - MA, Yue [ymacn@connect.ust.hk](mailto:ymacn@connect.ust.hk)
+    - TSUI, Yuk Hang [yhtsui@connect.ust.hk](mailto:yhtsui@connect.ust.hk)
+    - WOLFENSBERGER, Julien Etienne Maximilien [jemw@connect.ust.hk](mailto:jemw@connect.ust.hk)
+- 37 - text-to-3D Asset Generation
+    - FAN, Zhiyuan	[zfanau@connect.ust.hk](mailto:zfanau@connect.ust.hk)
+    - HU, Siyan [shuas@connect.ust.hk](mailto:shuas@connect.ust.hk)
+    - YU, Runyi [ryuao@connect.ust.hk](mailto:ryuao@connect.ust.hk)
+
+### Self-proposed Topics:
+
+- Multimodal Knowledge Graph
+    - CHAN, Wun Yu [wychanbu@connect.ust.hk](mailto:wychanbu@connect.ust.hk)
+- Hallucination of Large Language Model
+    - LI, Chun Chai Elton	[cceli@connect.ust.hk](mailto:cceli@connect.ust.hk)
+- Foundational Models as Agents
+    - CHAN, Ho Shu [hschanav@connect.ust.hk](mailto:hschanav@connect.ust.hk)
+- LLM for DL Library Fuzzing
+    - ZHANG, Kunpeng [kzhangcl@connect.ust.hk](mailto:kzhangcl@connect.ust.hk)
