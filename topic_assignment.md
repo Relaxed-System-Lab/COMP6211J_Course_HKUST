@@ -101,8 +101,9 @@
     - WANG, Jinjian	[jwangjx@connect.ust.hk](mailto:jwangjx@connect.ust.hk)
     - XU, Chi	[cxubs@connect.ust.hk](mailto:cxubs@connect.ust.hk)
 - 36 - Text Video Generation
-    - LIU, Jiazhen [jliugj@connect.ust.hk](mailto:jliugj@connect.ust.hk)
-    - MA, Yue [ymacn@connect.ust.hk](mailto:ymacn@connect.ust.hk)
+    - Group 1:     
+        - LIU, Jiazhen [jliugj@connect.ust.hk](mailto:jliugj@connect.ust.hk)
+        - MA, Yue [ymacn@connect.ust.hk](mailto:ymacn@connect.ust.hk)
     - TSUI, Yuk Hang [yhtsui@connect.ust.hk](mailto:yhtsui@connect.ust.hk)
     - WOLFENSBERGER, Julien Etienne Maximilien [jemw@connect.ust.hk](mailto:jemw@connect.ust.hk)
 - 37 - text-to-3D Asset Generation
