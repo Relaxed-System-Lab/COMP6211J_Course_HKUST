@@ -68,8 +68,9 @@
     - CAO, Lunxi [lcaoar@connect.ust.hk](mailto:lcaoar@connect.ust.hk)
     - YAN, Ran	[ryanaf@connect.ust.hk](mailto:ryanaf@connect.ust.hk)
 - 26 - Parallel Inference for Diffusion Model
-    - GU, Bohai [bguab@connect.ust.hk](mailto:bguab@connect.ust.hk)
-    - LU, Xiaocheng	[xlubl@connect.ust.hk](mailto:xlubl@connect.ust.hk)
+    - Group:
+        - GU, Bohai [bguab@connect.ust.hk](mailto:bguab@connect.ust.hk)
+        - LU, Xiaocheng	[xlubl@connect.ust.hk](mailto:xlubl@connect.ust.hk)
     - LIU, Xinyu [xliugd@connect.ust.hk](mailto:xliugd@connect.ust.hk)
     - LIU, Zeyu	[zliugj@connect.ust.hk](mailto:zliugj@connect.ust.hk)
 - 27 - Retrieval Augmented Generation Embedding Models
