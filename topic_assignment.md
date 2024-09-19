@@ -52,9 +52,10 @@
     - LI, Jia [jlimh@connect.ust.hk](mailto:jlimh@connect.ust.hk)
     - TAN, Yonghao	[ytanaz@connect.ust.hk](mailto:ytanaz@connect.ust.hk)
 - 22 - LLM Inference KV Cache Compression
-    - CHEN, Jingcan [jchenhv@connect.ust.hk](mailto:jchenhv@connect.ust.hk)
+    - Group 1:     
+        - CHEN, Jingcan [jchenhv@connect.ust.hk](mailto:jchenhv@connect.ust.hk)
+        - YANG, Qirui [qyangau@connect.ust.hk](mailto:qyangau@connect.ust.hk)
     - CHEN, Wei [wchendb@connect.ust.hk](mailto:wchendb@connect.ust.hk)
-    - YANG, Qirui [qyangau@connect.ust.hk](mailto:qyangau@connect.ust.hk)
 - 23 - LLM Speculative and Parallel Decoding
     - CHANG, Chaokun	[cchangai@connect.ust.hk](mailto:cchangai@connect.ust.hk)
     - DONG, Pingcheng	[pdongaa@connect.ust.hk](mailto:pdongaa@connect.ust.hk)
