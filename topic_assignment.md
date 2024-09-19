@@ -87,8 +87,9 @@
     - HUANG, Ruixuan [rhuangbi@connect.ust.hk](mailto:rhuangbi@connect.ust.hk)
     - SHI, Weijie [wshiah@connect.ust.hk](mailto:wshiah@connect.ust.hk)
 - 32 - Multi-LLM Interaction
-    - DING, Fangyu	[fdingad@connect.ust.hk](mailto:fdingad@connect.ust.hk)
-    - LI, Chenyue [clieh@connect.ust.hk](mailto:clieh@connect.ust.hk)
+    - Group 1:    
+        - DING, Fangyu	[fdingad@connect.ust.hk](mailto:fdingad@connect.ust.hk)
+        - LI, Chenyue [clieh@connect.ust.hk](mailto:clieh@connect.ust.hk)
     - ZHU, Xiaomeng [xzhubr@connect.ust.hk](mailto:xzhubr@connect.ust.hk)
 - 33 - Table-Augmented Generation
     - PENG, You [ypengbt@connect.ust.hk](mailto:ypengbt@connect.ust.hk)
