@@ -5,8 +5,9 @@
 - 1 - Tensor Program Optimization
     - WU, Yangfan [ywuhe@connect.ust.hk](mailto:ywuhe@connect.ust.hk)
 - 2 - Beyond Transformer Architecture
-    - LAI, Wing Yin	[wylaiaj@connect.ust.hk](mailto:wylaiaj@connect.ust.hk)
-    - KWAN, Leong Chit Jeff	[lcjkwanaa@connect.ust.hk](mailto:lcjkwanaa@connect.ust.hk)
+    - Group 1:    
+        - LAI, Wing Yin	[wylaiaj@connect.ust.hk](mailto:wylaiaj@connect.ust.hk)
+        - KWAN, Leong Chit Jeff	[lcjkwanaa@connect.ust.hk](mailto:lcjkwanaa@connect.ust.hk)
     - ZHU, Han [hzhubo@connect.ust.hk](mailto:hzhubo@connect.ust.hk)
 - 3 - NPU Architecture
     - LUK, Pak Him	[phluk@connect.ust.hk](mailto:phluk@connect.ust.hk)
