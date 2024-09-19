@@ -21,8 +21,9 @@
 - 7 - Fairness in ML Service
     - FENG, Zhaoxin [zfengbd@connect.ust.hk](mailto:zfengbd@connect.ust.hk)
 - 8 - Multi-Tenant LLM Service
-    - LI, Yuxuan [ylisn@connect.ust.hk](mailto:ylisn@connect.ust.hk)
-    - ZHOU, Yukun	[yzhoufw@connect.ust.hk](mailto:yzhoufw@connect.ust.hk)
+    - Group 1:     
+        - LI, Yuxuan [ylisn@connect.ust.hk](mailto:ylisn@connect.ust.hk)
+        - ZHOU, Yukun	[yzhoufw@connect.ust.hk](mailto:yzhoufw@connect.ust.hk)
 - 9 - Data Parallel System Optimization
     - CAO, Chuxue [ccaoai@connect.ust.hk](mailto:ccaoai@connect.ust.hk)
 - 10 - Data Parallel Algorithmic Optimization - Gradient Compression
