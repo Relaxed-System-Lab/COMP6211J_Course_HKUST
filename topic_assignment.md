@@ -96,10 +96,11 @@
     - YE, Zhen	[zyebe@connect.ust.hk](mailto:zyebe@connect.ust.hk)
     - ZHANG, Yizhen [yzhangtf@connect.ust.hk](mailto:yzhangtf@connect.ust.hk)
 - 35 - Text Image Generation
+    - Group 1:
+        - WANG, Jinjian	[jwangjx@connect.ust.hk](mailto:jwangjx@connect.ust.hk)
+        - XU, Chi	[cxubs@connect.ust.hk](mailto:cxubs@connect.ust.hk)          
     - CHEN, Shanwen [schenfh@connect.ust.hk](mailto:schenfh@connect.ust.hk)
     - CHEN, Xi	[xchengx@connect.ust.hk](mailto:xchengx@connect.ust.hk)
-    - WANG, Jinjian	[jwangjx@connect.ust.hk](mailto:jwangjx@connect.ust.hk)
-    - XU, Chi	[cxubs@connect.ust.hk](mailto:cxubs@connect.ust.hk)
 - 36 - Text Video Generation
     - Group 1:     
         - LIU, Jiazhen [jliugj@connect.ust.hk](mailto:jliugj@connect.ust.hk)
