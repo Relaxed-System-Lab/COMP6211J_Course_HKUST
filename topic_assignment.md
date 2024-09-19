@@ -48,9 +48,11 @@
 - 20 - Robust Training
     - ZHU, Fangqi [fzhuah@connect.ust.hk](mailto:fzhuah@connect.ust.hk)
 - 21 - LLM Inference Weight and Activation Compression
+    - Group 1:
+        - LI, Jia [jlimh@connect.ust.hk](mailto:jlimh@connect.ust.hk)
+        - TAN, Yonghao	[ytanaz@connect.ust.hk](mailto:ytanaz@connect.ust.hk) 
     - LI, Lujun	[lliee@connect.ust.hk](mailto:lliee@connect.ust.hk)
-    - LI, Jia [jlimh@connect.ust.hk](mailto:jlimh@connect.ust.hk)
-    - TAN, Yonghao	[ytanaz@connect.ust.hk](mailto:ytanaz@connect.ust.hk)
+    
 - 22 - LLM Inference KV Cache Compression
     - Group 1:     
         - CHEN, Jingcan [jchenhv@connect.ust.hk](mailto:jchenhv@connect.ust.hk)
