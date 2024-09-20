@@ -95,8 +95,9 @@
         - LI, Chenyue [clieh@connect.ust.hk](mailto:clieh@connect.ust.hk)
     - ZHU, Xiaomeng [xzhubr@connect.ust.hk](mailto:xzhubr@connect.ust.hk)
 - 33 - Table-Augmented Generation
-    - PENG, You [ypengbt@connect.ust.hk](mailto:ypengbt@connect.ust.hk)
-    - ZHANG, Xinyi	[xzhangfz@connect.ust.hk](mailto:xzhangfz@connect.ust.hk)
+    - Group 1:    
+        - PENG, You [ypengbt@connect.ust.hk](mailto:ypengbt@connect.ust.hk)
+        - ZHANG, Xinyi	[xzhangfz@connect.ust.hk](mailto:xzhangfz@connect.ust.hk)
 - 34 - Multimodal Retrieval Augmented Generation
     - CHEN, Yiwei [ychenmb@connect.ust.hk](mailto:ychenmb@connect.ust.hk)
     - FRIESKE, Rita	[rmfrieske@connect.ust.hk](mailto:rmfrieske@connect.ust.hk)
