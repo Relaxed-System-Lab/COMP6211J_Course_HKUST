@@ -99,10 +99,11 @@
         - PENG, You [ypengbt@connect.ust.hk](mailto:ypengbt@connect.ust.hk)
         - ZHANG, Xinyi	[xzhangfz@connect.ust.hk](mailto:xzhangfz@connect.ust.hk)
 - 34 - Multimodal Retrieval Augmented Generation
-    - CHEN, Yiwei [ychenmb@connect.ust.hk](mailto:ychenmb@connect.ust.hk)
+    - Group 1: 
+        - CHEN, Yiwei [ychenmb@connect.ust.hk](mailto:ychenmb@connect.ust.hk)
+        - ZHANG, Yizhen [yzhangtf@connect.ust.hk](mailto:yzhangtf@connect.ust.hk)
     - FRIESKE, Rita	[rmfrieske@connect.ust.hk](mailto:rmfrieske@connect.ust.hk)
     - YE, Zhen	[zyebe@connect.ust.hk](mailto:zyebe@connect.ust.hk)
-    - ZHANG, Yizhen [yzhangtf@connect.ust.hk](mailto:yzhangtf@connect.ust.hk)
 - 35 - Text Image Generation
     - Group 1:
         - WANG, Jinjian	[jwangjx@connect.ust.hk](mailto:jwangjx@connect.ust.hk)
