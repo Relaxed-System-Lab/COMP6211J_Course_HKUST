@@ -41,8 +41,7 @@
     - HE, Zhitao [zhebu@connect.ust.hk](mailto:zhebu@connect.ust.hk)
     - LIU, Yulong	[yliuom@connect.ust.hk](mailto:yliuom@connect.ust.hk)
     - XU, Weiqing [wxucd@connect.ust.hk](mailto:wxucd@connect.ust.hk)
-- 18 - Offloading Training System
-    - WANG, Jiashu	[jwangjv@connect.ust.hk](mailto:jwangjv@connect.ust.hk)
+- ~~18 - Offloading Training System~~
 - 19 - Auto Parallelism
     - TAN, Huiri [htanaj@connect.ust.hk](mailto:htanaj@connect.ust.hk)
 - 20 - Robust Training
@@ -131,3 +130,5 @@
     - CHAN, Ho Shu [hschanav@connect.ust.hk](mailto:hschanav@connect.ust.hk)
 - LLM for DL Library Fuzzing
     - ZHANG, Kunpeng [kzhangcl@connect.ust.hk](mailto:kzhangcl@connect.ust.hk)
+- ML System Simulation
+   - WANG, Jiashu [jwangjv@connect.ust.hk](mailto:jwangjv@connect.ust.hk)
