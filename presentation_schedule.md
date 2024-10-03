@@ -1,0 +1,132 @@
+# COMP 6211J Presentation Schedule
+
+
+- 1 - Tensor Program Optimization
+    - WU, Yangfan [ywuhe@connect.ust.hk](mailto:ywuhe@connect.ust.hk) <2024-10-22-Session-1>
+- 2 - Beyond Transformer Architecture
+    - Group 1: <2024-10-22-Session-2>   
+        - LAI, Wing Yin	[wylaiaj@connect.ust.hk](mailto:wylaiaj@connect.ust.hk)
+        - KWAN, Leong Chit Jeff	[lcjkwanaa@connect.ust.hk](mailto:lcjkwanaa@connect.ust.hk)
+    - ZHU, Han [hzhubo@connect.ust.hk](mailto:hzhubo@connect.ust.hk) <2024-10-22-Session-3>
+- 3 - NPU Architecture
+    - LUK, Pak Him	[phluk@connect.ust.hk](mailto:phluk@connect.ust.hk) <2024-10-22-Session-4> 
+    - PENG, Junyao	[jpengau@connect.ust.hk](mailto:jpengau@connect.ust.hk) <2024-10-22-Session-5> 
+- 4 - TPU Architecture
+    - YANG, Bohan [byangay@connect.ust.hk](mailto:byangay@connect.ust.hk) <2024-10-22-Session-6> 
+- 5 - Collective Communication Optimization
+    - LI, Qijing	[qlicw@connect.ust.hk](mailto:qlicw@connect.ust.hk) <2024-10-24-Session-1>
+- 6 - In Network Aggregation
+    - LIU, Xiangzhou [xliugg@connect.ust.hk](mailto:xliugg@connect.ust.hk) <2024-10-24-Session-2>
+- 7 - Fairness in ML Service
+    - FENG, Zhaoxin [zfengbd@connect.ust.hk](mailto:zfengbd@connect.ust.hk) <2024-10-24-Session-3>
+- 8 - Multi-Tenant LLM Service
+    - Group 1: <2024-10-24-Session-4>    
+        - LI, Yuxuan [ylisn@connect.ust.hk](mailto:ylisn@connect.ust.hk)
+        - ZHOU, Yukun	[yzhoufw@connect.ust.hk](mailto:yzhoufw@connect.ust.hk)
+- 9 - Data Parallel System Optimization
+    - CAO, Chuxue [ccaoai@connect.ust.hk](mailto:ccaoai@connect.ust.hk) <2024-10-24-Session-5>
+- 10 - Data Parallel Algorithmic Optimization - Gradient Compression
+    - DONG, Qi [qdongaf@connect.ust.hk](mailto:qdongaf@connect.ust.hk) <2024-10-24-Session-6>
+- ~~11 - Data Parallel Algorithmic Optimization - Asynchronous Training~~
+- ~~12 - Data Parallel Algorithmic Optimization - Decentralized Communication~~
+- ~~13 - Pipeline Parallel System Optimization~~
+- ~~14 - Tensor Model Parallel System Optimization~~
+- 15 - Optimizer Parallel System Optimization
+    - ZHAO, Xi	[xzhaoca@connect.ust.hk](mailto:xzhaoca@connect.ust.hk) <2024-10-29-Session-1>
+- 16 - Long Sequence Parallel Training
+    - JIANG, Xiaoxiao [xjiangbp@connect.ust.hk](mailto:xjiangbp@connect.ust.hk) <2024-10-29-Session-2>
+    - KIM, Hyeonjae	[hkimar@connect.ust.hk](mailto:hkimar@connect.ust.hk) <2024-10-29-Session-3>
+- 17 - Mixture of Expert Parallel Training
+    - HE, Zhitao [zhebu@connect.ust.hk](mailto:zhebu@connect.ust.hk) <2024-10-29-Session-4>
+    - LIU, Yulong	[yliuom@connect.ust.hk](mailto:yliuom@connect.ust.hk) <2024-10-29-Session-5>
+    - XU, Weiqing [wxucd@connect.ust.hk](mailto:wxucd@connect.ust.hk) <2024-10-29-Session-6>
+- ~~18 - Offloading Training System~~
+- 19 - Auto Parallelism
+    - TAN, Huiri [htanaj@connect.ust.hk](mailto:htanaj@connect.ust.hk) <2024-10-31-Session-1>
+- 20 - Robust Training
+    - ZHU, Fangqi [fzhuah@connect.ust.hk](mailto:fzhuah@connect.ust.hk) <2024-10-31-Session-2>
+- 21 - LLM Inference Weight and Activation Compression
+    - Group 1: <2024-10-31-Session-3>
+        - LI, Jia [jlimh@connect.ust.hk](mailto:jlimh@connect.ust.hk)
+        - TAN, Yonghao	[ytanaz@connect.ust.hk](mailto:ytanaz@connect.ust.hk) 
+    - LI, Lujun	[lliee@connect.ust.hk](mailto:lliee@connect.ust.hk) <2024-10-31-Session-4>
+- 22 - LLM Inference KV Cache Compression
+    - CHEN, Wei [wchendb@connect.ust.hk](mailto:wchendb@connect.ust.hk) <2024-10-31-Session-5>
+    - Group 1:  <2024-11-05-Session-1>
+        - CHEN, Jingcan [jchenhv@connect.ust.hk](mailto:jchenhv@connect.ust.hk) 
+        - YANG, Qirui [qyangau@connect.ust.hk](mailto:qyangau@connect.ust.hk) 
+- 23 - LLM Speculative and Parallel Decoding
+    - CHANG, Chaokun	[cchangai@connect.ust.hk](mailto:cchangai@connect.ust.hk) <2024-11-05-Session-2>
+    - DONG, Pingcheng	[pdongaa@connect.ust.hk](mailto:pdongaa@connect.ust.hk) <2024-11-05-Session-3>
+    - LIN, Hangyu	[hlinbm@connect.ust.hk](mailto:hlinbm@connect.ust.hk) <2024-11-05-Session-4>
+- 24 - Offloading Inference System
+    - CHAI, Wen Jye [wjchai@connect.ust.hk](mailto:wjchai@connect.ust.hk) <2024-11-05-Session-5>
+    - PANG, Ching Christie [ccpangaa@connect.ust.hk](mailto:ccpangaa@connect.ust.hk) <2024-11-07-Session-1>
+    - WU, Ze	[zwubn@connect.ust.hk](mailto:zwubn@connect.ust.hk) 2024-11-07-Session-2
+- 25 - Disaggregate Generative Inference
+    - CAO, Lunxi [lcaoar@connect.ust.hk](mailto:lcaoar@connect.ust.hk) <2024-11-07-Session-3>
+    - YAN, Ran	[ryanaf@connect.ust.hk](mailto:ryanaf@connect.ust.hk) <2024-11-07-Session-4>
+- 26 - Parallel Inference for Diffusion Model
+    - Group: <2024-11-07-Session-5>
+        - GU, Bohai [bguab@connect.ust.hk](mailto:bguab@connect.ust.hk)
+        - LU, Xiaocheng	[xlubl@connect.ust.hk](mailto:xlubl@connect.ust.hk)
+    - LIU, Xinyu [xliugd@connect.ust.hk](mailto:xliugd@connect.ust.hk) <2024-11-12-Session-1>
+    - LIU, Zeyu	[zliugj@connect.ust.hk](mailto:zliugj@connect.ust.hk) <2024-11-12-Session-2>
+- 27 - Retrieval Augmented Generation Embedding Models
+    - LAU, Kwun Hang [khlaube@connect.ust.hk](mailto:khlaube@connect.ust.hk) <2024-11-12-Session-3>
+    - FANG, Wenji [wfang838@connect.ust.hk](mailto:wfang838@connect.ust.hk) <2024-11-12-Session-4>
+- 28 - Retrieval Augmented Generation Chunk Optimization
+    - KIM, Jounghoon [jkimcv@connect.ust.hk](mailto:jkimcv@connect.ust.hk) <2024-11-12-Session-5>
+- 29 - Retrieval Augmented Generation Adaptive Retrieval
+    - CHAN, Chi-min [cchanbc@connect.ust.hk](mailto:cchanbc@connect.ust.hk) <2024-11-12-Session-6>
+    - WEN, Pengcheng	[pwenab@connect.ust.hk](mailto:pwenab@connect.ust.hk) <2024-11-14-Session-1>
+- 30 - Retrieval Augmented Generation ReRanking
+    - ELMOMA, Nathanael Tesfaye	[ntelmoma@connect.ust.hk](mailto:ntelmoma@connect.ust.hk) <2024-11-14-Session-2>
+    - HE, Guangxin	[gheaf@connect.ust.hk](mailto:gheaf@connect.ust.hk) <2024-11-14-Session-3>
+- 31 - Security in Retrieval Augmented Generation
+    - HUANG, Ruixuan [rhuangbi@connect.ust.hk](mailto:rhuangbi@connect.ust.hk) <2024-11-14-Session-4>
+    - SHI, Weijie [wshiah@connect.ust.hk](mailto:wshiah@connect.ust.hk) <2024-11-14-Session-5>
+- 32 - Multi-LLM Interaction
+    - ZHU, Xiaomeng [xzhubr@connect.ust.hk](mailto:xzhubr@connect.ust.hk) <2024-11-19-Session-6>
+    - Group 1: <2024-11-19-Session-1>   
+        - DING, Fangyu	[fdingad@connect.ust.hk](mailto:fdingad@connect.ust.hk)
+        - LI, Chenyue [clieh@connect.ust.hk](mailto:clieh@connect.ust.hk)
+- 33 - Table-Augmented Generation
+    - Group 1:  <2024-11-19-Session-2>  
+        - PENG, You [ypengbt@connect.ust.hk](mailto:ypengbt@connect.ust.hk)
+        - ZHANG, Xinyi	[xzhangfz@connect.ust.hk](mailto:xzhangfz@connect.ust.hk)
+- 34 - Multimodal Retrieval Augmented Generation
+    - Group 1:  <2024-11-19-Session-3>
+        - CHEN, Yiwei [ychenmb@connect.ust.hk](mailto:ychenmb@connect.ust.hk)
+        - ZHANG, Yizhen [yzhangtf@connect.ust.hk](mailto:yzhangtf@connect.ust.hk)
+    - FRIESKE, Rita	[rmfrieske@connect.ust.hk](mailto:rmfrieske@connect.ust.hk) <2024-11-21-Session-1>
+    - YE, Zhen	[zyebe@connect.ust.hk](mailto:zyebe@connect.ust.hk) <2024-11-21-Session-2>
+- 35 - Text Image Generation
+    - Group 1: <2024-11-21-Session-3>
+        - WANG, Jinjian	[jwangjx@connect.ust.hk](mailto:jwangjx@connect.ust.hk)
+        - XU, Chi	[cxubs@connect.ust.hk](mailto:cxubs@connect.ust.hk)          
+    - CHEN, Shanwen [schenfh@connect.ust.hk](mailto:schenfh@connect.ust.hk) <2024-11-21-Session-4>
+    - CHEN, Xi	[xchengx@connect.ust.hk](mailto:xchengx@connect.ust.hk) <2024-11-21-Session-5>
+- 36 - Text Video Generation
+    - Group 1: <2024-11-26-Session-1>    
+        - LIU, Jiazhen [jliugj@connect.ust.hk](mailto:jliugj@connect.ust.hk)
+        - MA, Yue [ymacn@connect.ust.hk](mailto:ymacn@connect.ust.hk)
+    - TSUI, Yuk Hang [yhtsui@connect.ust.hk](mailto:yhtsui@connect.ust.hk) <2024-11-26-Session-2>
+    - WOLFENSBERGER, Julien Etienne Maximilien [jemw@connect.ust.hk](mailto:jemw@connect.ust.hk) <2024-11-26-Session-3>
+- 37 - text-to-3D Asset Generation
+    - FAN, Zhiyuan	[zfanau@connect.ust.hk](mailto:zfanau@connect.ust.hk) <2024-11-26-Session-4>
+    - HU, Siyan [shuas@connect.ust.hk](mailto:shuas@connect.ust.hk) <2024-11-26-Session-5>
+    - YU, Runyi [ryuao@connect.ust.hk](mailto:ryuao@connect.ust.hk) <2024-11-28-Session-1>
+
+### Self-proposed Topics:
+
+- Multimodal Knowledge Graph
+    - CHAN, Wun Yu [wychanbu@connect.ust.hk](mailto:wychanbu@connect.ust.hk) <2024-11-28-Session-2>
+- Hallucination of Large Language Model
+    - LI, Chun Chai Elton	[cceli@connect.ust.hk](mailto:cceli@connect.ust.hk) <2024-11-28-Session-3>
+- Foundational Models as Agents
+    - CHAN, Ho Shu [hschanav@connect.ust.hk](mailto:hschanav@connect.ust.hk) <2024-11-28-Session-4>
+- LLM for DL Library Fuzzing
+    - ZHANG, Kunpeng [kzhangcl@connect.ust.hk](mailto:kzhangcl@connect.ust.hk) <2024-11-28-Session-5>
+- ML System Simulation
+   - WANG, Jiashu [jwangjv@connect.ust.hk](mailto:jwangjv@connect.ust.hk) <2024-11-28-Session-6>
