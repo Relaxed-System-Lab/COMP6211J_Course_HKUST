@@ -28,10 +28,10 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 | W6 - 10/08, 10/10  | Alogirhtm Optimizations for Inference [[Slides]](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST/blob/main/Lecture%2010%20-%20Generative%20Inference%20Algorithm%20Optimization.pdf) & System Optimizations for Inference [[Slides]](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST/blob/main/Lecture%209%20-%20Generative%20Inference%20Overview.pdf) |
 | W7 - 10/15, 10/17  | RAG and Domain Specific LLM Agent [[Slides]](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST/blob/main/Lecture%2012%20-%20RAG%20and%20Domain%20Specific%20LLM%20Agent.pdf) & Course Review [[Slides]](https://github.com/Relaxed-System-Lab/COMP6211J_Course_HKUST/blob/main/Lecture%2013%20-%20Review.pdf) | 
 | W8 - 10/22, 10/24  | Presentation Sessions |
-| W9 – 10/29, 10/31  | Presentation-Sessions |
-| W10 - 11/05, 11/07 | Presentation-Sessions |
-| W11 - 11/12, 11/14 | Presentation-Sessions |
-| W12 - 11/19, 11/21 | Presentation-Sessions |
+| W9 – 10/29, 10/31  | Presentation Sessions |
+| W10 - 11/05, 11/07 | Presentation Sessions |
+| W11 - 11/12, 11/14 | Presentation Sessions |
+| W12 - 11/19, 11/21 | Presentation Sessions |
 | W13 - 11/26, 11/28 | Presentation Sessions |
 
 ## Grading
