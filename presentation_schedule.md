@@ -7,12 +7,12 @@
     - Group 1: <2024-10-22-Session-2 [feedback submit](https://forms.gle/73vWyUbrBgybLzsA8)>   
         - LAI, Wing Yin	[wylaiaj@connect.ust.hk](mailto:wylaiaj@connect.ust.hk)
         - KWAN, Leong Chit Jeff	[lcjkwanaa@connect.ust.hk](mailto:lcjkwanaa@connect.ust.hk)
-    - ZHU, Han [hzhubo@connect.ust.hk](mailto:hzhubo@connect.ust.hk) <2024-10-22-Session-3>
+    - ZHU, Han [hzhubo@connect.ust.hk](mailto:hzhubo@connect.ust.hk) <2024-10-22-Session-3 [feedback submit](https://forms.gle/j99BY3kifrt92dH99)>
 - 3 - NPU Architecture
-    - LUK, Pak Him	[phluk@connect.ust.hk](mailto:phluk@connect.ust.hk) <2024-10-22-Session-4> 
-    - PENG, Junyao	[jpengau@connect.ust.hk](mailto:jpengau@connect.ust.hk) <2024-10-22-Session-5> 
+    - LUK, Pak Him	[phluk@connect.ust.hk](mailto:phluk@connect.ust.hk) <2024-10-22-Session-4 [feedback submit](https://forms.gle/FRCHVtmmLTtNFoUo6)> 
+    - PENG, Junyao	[jpengau@connect.ust.hk](mailto:jpengau@connect.ust.hk) <2024-10-22-Session-5 [feedback submit](https://forms.gle/MVDWJijDuivb1G3BA)> 
 - 4 - TPU Architecture
-    - YANG, Bohan [byangay@connect.ust.hk](mailto:byangay@connect.ust.hk) <2024-10-22-Session-6> 
+    - YANG, Bohan [byangay@connect.ust.hk](mailto:byangay@connect.ust.hk) <2024-10-22-Session-6 [feedback submit](https://forms.gle/LhtagmGZEhyr5w1P8)> 
 - 5 - Collective Communication Optimization
     - LI, Qijing	[qlicw@connect.ust.hk](mailto:qlicw@connect.ust.hk) <2024-10-24-Session-1>
 - 6 - In Network Aggregation
