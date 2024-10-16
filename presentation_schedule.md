@@ -2,9 +2,9 @@
 
 
 - 1 - Tensor Program Optimization
-    - WU, Yangfan [ywuhe@connect.ust.hk](mailto:ywuhe@connect.ust.hk) <2024-10-22-Session-1>
+    - WU, Yangfan [ywuhe@connect.ust.hk](mailto:ywuhe@connect.ust.hk) <2024-10-22-Session-1 [feedback submit](https://forms.gle/oTFHsMVaAkBJAyyM8)>
 - 2 - Beyond Transformer Architecture
-    - Group 1: <2024-10-22-Session-2>   
+    - Group 1: <2024-10-22-Session-2 [feedback submit](https://forms.gle/73vWyUbrBgybLzsA8)>   
         - LAI, Wing Yin	[wylaiaj@connect.ust.hk](mailto:wylaiaj@connect.ust.hk)
         - KWAN, Leong Chit Jeff	[lcjkwanaa@connect.ust.hk](mailto:lcjkwanaa@connect.ust.hk)
     - ZHU, Han [hzhubo@connect.ust.hk](mailto:hzhubo@connect.ust.hk) <2024-10-22-Session-3>
