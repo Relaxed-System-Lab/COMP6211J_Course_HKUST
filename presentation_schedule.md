@@ -38,7 +38,7 @@
     - KIM, Hyeonjae	[hkimar@connect.ust.hk](mailto:hkimar@connect.ust.hk) <2024-10-29-Session-3>
 - 17 - Mixture of Expert Parallel Training
     - HE, Zhitao [zhebu@connect.ust.hk](mailto:zhebu@connect.ust.hk) <2024-10-31-Session-5>
-    - LIU, Yulong	[yliuom@connect.ust.hk](mailto:yliuom@connect.ust.hk) <2024-10-29-Session-5>
+    - LIU, Yulong	[yliuom@connect.ust.hk](mailto:yliuom@connect.ust.hk) <2024-10-31-Session-4>
     - XU, Weiqing [wxucd@connect.ust.hk](mailto:wxucd@connect.ust.hk) <2024-10-29-Session-6>
 - ~~18 - Offloading Training System~~
 - 19 - Auto Parallelism
@@ -49,7 +49,7 @@
     - Group 1: <2024-10-31-Session-3>
         - LI, Jia [jlimh@connect.ust.hk](mailto:jlimh@connect.ust.hk)
         - TAN, Yonghao	[ytanaz@connect.ust.hk](mailto:ytanaz@connect.ust.hk) 
-    - LI, Lujun	[lliee@connect.ust.hk](mailto:lliee@connect.ust.hk) <2024-10-31-Session-4>
+    - LI, Lujun	[lliee@connect.ust.hk](mailto:lliee@connect.ust.hk) <2024-10-29-Session-5>
 - 22 - LLM Inference KV Cache Compression
     - CHEN, Wei [wchendb@connect.ust.hk](mailto:wchendb@connect.ust.hk) <2024-10-29-Session-4>
     - Group 1:  <2024-11-05-Session-1>
