@@ -14,19 +14,19 @@
 - 4 - TPU Architecture
     - YANG, Bohan [byangay@connect.ust.hk](mailto:byangay@connect.ust.hk) <2024-10-22-Session-6 [feedback submit](https://forms.gle/LhtagmGZEhyr5w1P8)> 
 - 5 - Collective Communication Optimization
-    - LI, Qijing	[qlicw@connect.ust.hk](mailto:qlicw@connect.ust.hk) <2024-10-24-Session-1>
+    - LI, Qijing	[qlicw@connect.ust.hk](mailto:qlicw@connect.ust.hk) <2024-10-24-Session-1 [feedback submit](https://forms.gle/aHZvdPwEYxrZjEY26)>
 - 6 - In Network Aggregation
-    - LIU, Xiangzhou [xliugg@connect.ust.hk](mailto:xliugg@connect.ust.hk) <2024-10-24-Session-2>
+    - LIU, Xiangzhou [xliugg@connect.ust.hk](mailto:xliugg@connect.ust.hk) <2024-10-24-Session-2 [feedback submit](https://forms.gle/zdACw9bmJ1GHkmwe8)>
 - 7 - Fairness in ML Service
-    - FENG, Zhaoxin [zfengbd@connect.ust.hk](mailto:zfengbd@connect.ust.hk) <2024-10-24-Session-3>
+    - FENG, Zhaoxin [zfengbd@connect.ust.hk](mailto:zfengbd@connect.ust.hk) <2024-10-24-Session-3 [feedback submit](https://forms.gle/RDEy5tsAxaKaD8bj9)>
 - 8 - Multi-Tenant LLM Service
-    - Group 1: <2024-10-24-Session-4>    
+    - Group 1: <2024-10-24-Session-4 [feedback submit](https://forms.gle/okk1gZqy3FPtFW7UA)>    
         - LI, Yuxuan [ylisn@connect.ust.hk](mailto:ylisn@connect.ust.hk)
         - ZHOU, Yukun	[yzhoufw@connect.ust.hk](mailto:yzhoufw@connect.ust.hk)
 - 9 - Data Parallel System Optimization
-    - CAO, Chuxue [ccaoai@connect.ust.hk](mailto:ccaoai@connect.ust.hk) <2024-10-24-Session-5>
+    - CAO, Chuxue [ccaoai@connect.ust.hk](mailto:ccaoai@connect.ust.hk) <2024-10-24-Session-5 [feedback submit](https://forms.gle/z2iu2Wsrq9Nk4RRS7)>
 - 10 - Data Parallel Algorithmic Optimization - Gradient Compression
-    - DONG, Qi [qdongaf@connect.ust.hk](mailto:qdongaf@connect.ust.hk) <2024-10-24-Session-6>
+    - DONG, Qi [qdongaf@connect.ust.hk](mailto:qdongaf@connect.ust.hk) <2024-10-24-Session-6 [feedback submit](https://forms.gle/tzNF4LcyFo12ucoz5)>
 - ~~11 - Data Parallel Algorithmic Optimization - Asynchronous Training~~
 - ~~12 - Data Parallel Algorithmic Optimization - Decentralized Communication~~
 - ~~13 - Pipeline Parallel System Optimization~~
