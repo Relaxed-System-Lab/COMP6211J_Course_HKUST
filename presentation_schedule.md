@@ -32,14 +32,14 @@
 - ~~13 - Pipeline Parallel System Optimization~~
 - ~~14 - Tensor Model Parallel System Optimization~~
 - 15 - Optimizer Parallel System Optimization
-    - ZHAO, Xi	[xzhaoca@connect.ust.hk](mailto:xzhaoca@connect.ust.hk) <2024-10-29-Session-1>
+    - ZHAO, Xi	[xzhaoca@connect.ust.hk](mailto:xzhaoca@connect.ust.hk) <2024-10-29-Session-1 [feedback submit](https://forms.gle/mUdX1A7AEs9t9rTo9)>
 - 16 - Long Sequence Parallel Training
-    - JIANG, Xiaoxiao [xjiangbp@connect.ust.hk](mailto:xjiangbp@connect.ust.hk) <2024-10-29-Session-2>
-    - KIM, Hyeonjae	[hkimar@connect.ust.hk](mailto:hkimar@connect.ust.hk) <2024-10-29-Session-3>
+    - JIANG, Xiaoxiao [xjiangbp@connect.ust.hk](mailto:xjiangbp@connect.ust.hk) <2024-10-29-Session-2 [feedback submit](https://forms.gle/zXtr8qE4oe2XJdfT8)>
+    - KIM, Hyeonjae	[hkimar@connect.ust.hk](mailto:hkimar@connect.ust.hk) <2024-10-29-Session-3 [feedback submit](https://forms.gle/f5Hp5Lkj6aGYQ6cZA)>
 - 17 - Mixture of Expert Parallel Training
     - HE, Zhitao [zhebu@connect.ust.hk](mailto:zhebu@connect.ust.hk) <2024-10-31-Session-5>
     - LIU, Yulong	[yliuom@connect.ust.hk](mailto:yliuom@connect.ust.hk) <2024-10-31-Session-4>
-    - XU, Weiqing [wxucd@connect.ust.hk](mailto:wxucd@connect.ust.hk) <2024-10-29-Session-6>
+    - XU, Weiqing [wxucd@connect.ust.hk](mailto:wxucd@connect.ust.hk) <2024-10-29-Session-6 [feedback submit](https://forms.gle/EqdxyUbTz2LLoKXt5)>
 - ~~18 - Offloading Training System~~
 - 19 - Auto Parallelism
     - TAN, Huiri [htanaj@connect.ust.hk](mailto:htanaj@connect.ust.hk) <2024-10-31-Session-1>
@@ -49,16 +49,16 @@
     - Group 1: <2024-10-31-Session-3>
         - LI, Jia [jlimh@connect.ust.hk](mailto:jlimh@connect.ust.hk)
         - TAN, Yonghao	[ytanaz@connect.ust.hk](mailto:ytanaz@connect.ust.hk) 
-    - LI, Lujun	[lliee@connect.ust.hk](mailto:lliee@connect.ust.hk) <2024-10-29-Session-5>
+    - LI, Lujun	[lliee@connect.ust.hk](mailto:lliee@connect.ust.hk) <2024-10-29-Session-5 [feedback submit](https://forms.gle/Pd6mdC4xqaDVLuBa7)>
 - 22 - LLM Inference KV Cache Compression
-    - CHEN, Wei [wchendb@connect.ust.hk](mailto:wchendb@connect.ust.hk) <2024-10-29-Session-4>
+    - CHEN, Wei [wchendb@connect.ust.hk](mailto:wchendb@connect.ust.hk) <2024-10-29-Session-4 [feedback submit](https://forms.gle/oz2BkSg2o9WaSxtK6)>
     - Group 1:  <2024-11-05-Session-1>
         - CHEN, Jingcan [jchenhv@connect.ust.hk](mailto:jchenhv@connect.ust.hk) 
         - YANG, Qirui [qyangau@connect.ust.hk](mailto:qyangau@connect.ust.hk) 
 - 23 - LLM Speculative and Parallel Decoding
     - CHANG, Chaokun	[cchangai@connect.ust.hk](mailto:cchangai@connect.ust.hk) <2024-11-05-Session-2>
     - DONG, Pingcheng	[pdongaa@connect.ust.hk](mailto:pdongaa@connect.ust.hk) <2024-11-05-Session-3>
-    - LIN, Hangyu	[hlinbm@connect.ust.hk](mailto:hlinbm@connect.ust.hk) <2024-11-05-Session-4>
+    - LIN, Hangyu	[hlinbm@connect.ust.hk](mailto:hlinbm@connect.ust.hk) <~~2024-11-05-Session-4~~>
 - 24 - Offloading Inference System
     - CHAI, Wen Jye [wjchai@connect.ust.hk](mailto:wjchai@connect.ust.hk) <2024-11-05-Session-5>
     - PANG, Ching Christie [ccpangaa@connect.ust.hk](mailto:ccpangaa@connect.ust.hk) <2024-11-07-Session-1>
