@@ -37,16 +37,16 @@
     - JIANG, Xiaoxiao [xjiangbp@connect.ust.hk](mailto:xjiangbp@connect.ust.hk) <2024-10-29-Session-2 [feedback submit](https://forms.gle/zXtr8qE4oe2XJdfT8)>
     - KIM, Hyeonjae	[hkimar@connect.ust.hk](mailto:hkimar@connect.ust.hk) <2024-10-29-Session-3 [feedback submit](https://forms.gle/f5Hp5Lkj6aGYQ6cZA)>
 - 17 - Mixture of Expert Parallel Training
-    - HE, Zhitao [zhebu@connect.ust.hk](mailto:zhebu@connect.ust.hk) <2024-10-31-Session-5>
-    - LIU, Yulong	[yliuom@connect.ust.hk](mailto:yliuom@connect.ust.hk) <2024-10-31-Session-4>
+    - HE, Zhitao [zhebu@connect.ust.hk](mailto:zhebu@connect.ust.hk) <2024-10-31-Session-5 :fire: [feedback submit](https://forms.gle/9ie6Ux8taNqjDyqd8)>
+    - LIU, Yulong	[yliuom@connect.ust.hk](mailto:yliuom@connect.ust.hk) <2024-10-31-Session-4 :fire: [feedback submit](https://forms.gle/YkUcravP7DhrJHAEA)>
     - XU, Weiqing [wxucd@connect.ust.hk](mailto:wxucd@connect.ust.hk) <2024-10-29-Session-6 [feedback submit](https://forms.gle/EqdxyUbTz2LLoKXt5)>
 - ~~18 - Offloading Training System~~
 - 19 - Auto Parallelism
-    - TAN, Huiri [htanaj@connect.ust.hk](mailto:htanaj@connect.ust.hk) <2024-10-31-Session-1>
+    - TAN, Huiri [htanaj@connect.ust.hk](mailto:htanaj@connect.ust.hk) <2024-10-31-Session-1 :fire: [feedback submit](https://forms.gle/SYacidhjmhvngU5s9)>
 - 20 - Robust Training
-    - ZHU, Fangqi [fzhuah@connect.ust.hk](mailto:fzhuah@connect.ust.hk) <2024-10-31-Session-2>
+    - ZHU, Fangqi [fzhuah@connect.ust.hk](mailto:fzhuah@connect.ust.hk) <2024-10-31-Session-2 :fire: [feedback submit](https://forms.gle/67VE1C7zYUdihWG57)>
 - 21 - LLM Inference Weight and Activation Compression
-    - Group 1: <2024-10-31-Session-3>
+    - Group 1: <2024-10-31-Session-3 :fire: [feedback submit](https://forms.gle/TML1DGJZuPZCC8p7A)>
         - LI, Jia [jlimh@connect.ust.hk](mailto:jlimh@connect.ust.hk)
         - TAN, Yonghao	[ytanaz@connect.ust.hk](mailto:ytanaz@connect.ust.hk) 
     - LI, Lujun	[lliee@connect.ust.hk](mailto:lliee@connect.ust.hk) <2024-10-29-Session-5 [feedback submit](https://forms.gle/Pd6mdC4xqaDVLuBa7)>
