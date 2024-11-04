@@ -56,7 +56,7 @@
         - CHEN, Jingcan [jchenhv@connect.ust.hk](mailto:jchenhv@connect.ust.hk) 
         - YANG, Qirui [qyangau@connect.ust.hk](mailto:qyangau@connect.ust.hk) 
 - 23 - LLM Speculative and Parallel Decoding
-    - CHANG, Chaokun	[cchangai@connect.ust.hk](mailto:cchangai@connect.ust.hk) <2024-11-05-Session-2>
+    - CHANG, Chaokun	[cchangai@connect.ust.hk](mailto:cchangai@connect.ust.hk) <2024-11-07-Session-3>
     - DONG, Pingcheng	[pdongaa@connect.ust.hk](mailto:pdongaa@connect.ust.hk) <2024-11-05-Session-3>
     - LIN, Hangyu	[hlinbm@connect.ust.hk](mailto:hlinbm@connect.ust.hk) <~~2024-11-05-Session-4~~>
 - 24 - Offloading Inference System
@@ -64,7 +64,7 @@
     - PANG, Ching Christie [ccpangaa@connect.ust.hk](mailto:ccpangaa@connect.ust.hk) <2024-11-07-Session-1>
     - WU, Ze	[zwubn@connect.ust.hk](mailto:zwubn@connect.ust.hk) 2024-11-07-Session-2
 - 25 - Disaggregate Generative Inference
-    - CAO, Lunxi [lcaoar@connect.ust.hk](mailto:lcaoar@connect.ust.hk) <2024-11-07-Session-3>
+    - CAO, Lunxi [lcaoar@connect.ust.hk](mailto:lcaoar@connect.ust.hk) <2024-11-05-Session-2>
     - YAN, Ran	[ryanaf@connect.ust.hk](mailto:ryanaf@connect.ust.hk) <2024-11-07-Session-4>
 - 26 - Parallel Inference for Diffusion Model
     - Group: <2024-11-07-Session-5>
