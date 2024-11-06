@@ -56,18 +56,18 @@
         - CHEN, Jingcan [jchenhv@connect.ust.hk](mailto:jchenhv@connect.ust.hk) 
         - YANG, Qirui [qyangau@connect.ust.hk](mailto:qyangau@connect.ust.hk) 
 - 23 - LLM Speculative and Parallel Decoding
-    - CHANG, Chaokun	[cchangai@connect.ust.hk](mailto:cchangai@connect.ust.hk) <2024-11-07-Session-3>
-    - DONG, Pingcheng	[pdongaa@connect.ust.hk](mailto:pdongaa@connect.ust.hk) <2024-11-05-Session-3 :fire: [feedback submit](https://forms.gle/SMmvv4eWDzmZ9ejx5)>
+    - CHANG, Chaokun	[cchangai@connect.ust.hk](mailto:cchangai@connect.ust.hk) <2024-11-07-Session-3 :fire:[feedback submit](https://forms.gle/LMsfhMX7B1id6p84A)>
+    - DONG, Pingcheng	[pdongaa@connect.ust.hk](mailto:pdongaa@connect.ust.hk) <2024-11-05-Session-3 [feedback submit](https://forms.gle/SMmvv4eWDzmZ9ejx5)>
     - LIN, Hangyu	[hlinbm@connect.ust.hk](mailto:hlinbm@connect.ust.hk) <~~2024-11-05-Session-4~~>
 - 24 - Offloading Inference System
-    - CHAI, Wen Jye [wjchai@connect.ust.hk](mailto:wjchai@connect.ust.hk) <2024-11-05-Session-5 :fire: [feedback submit](https://forms.gle/DTQX5cyjANX7tBDQ8)>
-    - PANG, Ching Christie [ccpangaa@connect.ust.hk](mailto:ccpangaa@connect.ust.hk) <2024-11-07-Session-1>
-    - WU, Ze	[zwubn@connect.ust.hk](mailto:zwubn@connect.ust.hk) <2024-11-07-Session-2>
+    - CHAI, Wen Jye [wjchai@connect.ust.hk](mailto:wjchai@connect.ust.hk) <2024-11-05-Session-5 [feedback submit](https://forms.gle/DTQX5cyjANX7tBDQ8)>
+    - PANG, Ching Christie [ccpangaa@connect.ust.hk](mailto:ccpangaa@connect.ust.hk) <2024-11-07-Session-1 :fire:[feedback submit](https://forms.gle/fCaDn3eGQsxKV6np8)>
+    - WU, Ze	[zwubn@connect.ust.hk](mailto:zwubn@connect.ust.hk) <~~2024-11-07-Session-2~~>
 - 25 - Disaggregate Generative Inference
-    - CAO, Lunxi [lcaoar@connect.ust.hk](mailto:lcaoar@connect.ust.hk) <2024-11-05-Session-2 :fire: [feedback submit](https://forms.gle/LTgvsAAvnNX3qbdCA)>
-    - YAN, Ran	[ryanaf@connect.ust.hk](mailto:ryanaf@connect.ust.hk) <2024-11-07-Session-4>
+    - CAO, Lunxi [lcaoar@connect.ust.hk](mailto:lcaoar@connect.ust.hk) <2024-11-05-Session-2 [feedback submit](https://forms.gle/LTgvsAAvnNX3qbdCA)>
+    - YAN, Ran	[ryanaf@connect.ust.hk](mailto:ryanaf@connect.ust.hk) <2024-11-07-Session-4 :fire:[feedback submit](https://forms.gle/cqk27aoTM3pseKjSA)>
 - 26 - Parallel Inference for Diffusion Model
-    - Group: <2024-11-07-Session-5>
+    - Group: <2024-11-07-Session-5 :fire:[feedback submit](https://forms.gle/SN8ZK3cWHmwejt5w5)>
         - GU, Bohai [bguab@connect.ust.hk](mailto:bguab@connect.ust.hk)
         - LU, Xiaocheng	[xlubl@connect.ust.hk](mailto:xlubl@connect.ust.hk)
     - LIU, Xinyu [xliugd@connect.ust.hk](mailto:xliugd@connect.ust.hk) <2024-11-12-Session-1>
