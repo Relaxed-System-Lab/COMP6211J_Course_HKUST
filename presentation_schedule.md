@@ -52,7 +52,7 @@
     - LI, Lujun	[lliee@connect.ust.hk](mailto:lliee@connect.ust.hk) <2024-10-29-Session-5 [feedback submit](https://forms.gle/Pd6mdC4xqaDVLuBa7)>
 - 22 - LLM Inference KV Cache Compression
     - CHEN, Wei [wchendb@connect.ust.hk](mailto:wchendb@connect.ust.hk) <2024-10-29-Session-4 [feedback submit](https://forms.gle/oz2BkSg2o9WaSxtK6)>
-    - Group 1:  <2024-11-05-Session-1 :fire: [feedback submit](https://forms.gle/hmA3e5uCRdL7kiqm8)>
+    - Group 1:  <2024-11-05-Session-1 [feedback submit](https://forms.gle/hmA3e5uCRdL7kiqm8)>
         - CHEN, Jingcan [jchenhv@connect.ust.hk](mailto:jchenhv@connect.ust.hk) 
         - YANG, Qirui [qyangau@connect.ust.hk](mailto:qyangau@connect.ust.hk) 
 - 23 - LLM Speculative and Parallel Decoding
