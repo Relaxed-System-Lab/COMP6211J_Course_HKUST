@@ -61,7 +61,7 @@
     - LIN, Hangyu	[hlinbm@connect.ust.hk](mailto:hlinbm@connect.ust.hk) <~~2024-11-05-Session-4~~>
 - 24 - Offloading Inference System
     - CHAI, Wen Jye [wjchai@connect.ust.hk](mailto:wjchai@connect.ust.hk) <2024-11-05-Session-5 [feedback submit](https://forms.gle/DTQX5cyjANX7tBDQ8)>
-    - PANG, Ching Christie [ccpangaa@connect.ust.hk](mailto:ccpangaa@connect.ust.hk) <2024-11-07-Session-1 :fire:[feedback submit](https://forms.gle/fCaDn3eGQsxKV6np8)>
+    - PANG, Ching Christie [ccpangaa@connect.ust.hk](mailto:ccpangaa@connect.ust.hk) <~~2024-11-07-Session-1~~>
     - WU, Ze	[zwubn@connect.ust.hk](mailto:zwubn@connect.ust.hk) <~~2024-11-07-Session-2~~>
 - 25 - Disaggregate Generative Inference
     - CAO, Lunxi [lcaoar@connect.ust.hk](mailto:lcaoar@connect.ust.hk) <2024-11-05-Session-2 [feedback submit](https://forms.gle/LTgvsAAvnNX3qbdCA)>
