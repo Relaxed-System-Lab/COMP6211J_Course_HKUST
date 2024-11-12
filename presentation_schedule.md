@@ -87,7 +87,7 @@
     - HUANG, Ruixuan [rhuangbi@connect.ust.hk](mailto:rhuangbi@connect.ust.hk) <2024-11-14-Session-4>
     - SHI, Weijie [wshiah@connect.ust.hk](mailto:wshiah@connect.ust.hk) <2024-11-14-Session-5>
 - 32 - Multi-LLM Interaction
-    - ZHU, Xiaomeng [xzhubr@connect.ust.hk](mailto:xzhubr@connect.ust.hk) <2024-11-19-Session-6>
+    - ZHU, Xiaomeng [xzhubr@connect.ust.hk](mailto:xzhubr@connect.ust.hk) <2024-11-19-Session-4>
     - Group 1: <2024-11-19-Session-1>   
         - DING, Fangyu	[fdingad@connect.ust.hk](mailto:fdingad@connect.ust.hk)
         - LI, Chenyue [clieh@connect.ust.hk](mailto:clieh@connect.ust.hk)
