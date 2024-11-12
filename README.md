@@ -34,7 +34,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 | W12 - 11/19, 11/21 | Presentation Sessions |
 | W13 - 11/26, 11/28 | Presentation Sessions |
 
-- [Lecture record](https://pan.baidu.com/s/1Q8QTccn5jZ8DaGuJywEDtg?pwd=6211).
+- [Lecture Record](https://pan.baidu.com/s/1Q8QTccn5jZ8DaGuJywEDtg?pwd=6211).
 
 ## Grading
 
