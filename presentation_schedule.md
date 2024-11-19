@@ -79,24 +79,24 @@
     - KIM, Jounghoon [jkimcv@connect.ust.hk](mailto:jkimcv@connect.ust.hk) <2024-11-12-Session-5 [feedback submit](https://forms.gle/VyXW9fjaE6C2v9bz7)>
 - 29 - Retrieval Augmented Generation Adaptive Retrieval
     - CHAN, Chi-min [cchanbc@connect.ust.hk](mailto:cchanbc@connect.ust.hk) <2024-11-12-Session-6 [feedback submit](https://forms.gle/YnEPYgucghAgrWmY8)>
-    - WEN, Pengcheng	[pwenab@connect.ust.hk](mailto:pwenab@connect.ust.hk) <2024-11-14-Session-1 :fire:[feedback submit](https://forms.gle/owCs5JB28dg8c99GA)>
+    - WEN, Pengcheng	[pwenab@connect.ust.hk](mailto:pwenab@connect.ust.hk) <2024-11-14-Session-1 [feedback submit](https://forms.gle/owCs5JB28dg8c99GA)>
 - 30 - Retrieval Augmented Generation ReRanking
-    - ELMOMA, Nathanael Tesfaye	[ntelmoma@connect.ust.hk](mailto:ntelmoma@connect.ust.hk) <2024-11-14-Session-2 :fire:[feedback submit](https://forms.gle/PRux6om6QXpxXAQF9)>
-    - HE, Guangxin	[gheaf@connect.ust.hk](mailto:gheaf@connect.ust.hk) <2024-11-14-Session-3 :fire:[feedback submit](https://forms.gle/AhWXDKcD7Z1CMXjr7)>
+    - ELMOMA, Nathanael Tesfaye	[ntelmoma@connect.ust.hk](mailto:ntelmoma@connect.ust.hk) <2024-11-14-Session-2 [feedback submit](https://forms.gle/PRux6om6QXpxXAQF9)>
+    - HE, Guangxin	[gheaf@connect.ust.hk](mailto:gheaf@connect.ust.hk) <2024-11-14-Session-3 [feedback submit](https://forms.gle/AhWXDKcD7Z1CMXjr7)>
 - 31 - Security in Retrieval Augmented Generation
-    - HUANG, Ruixuan [rhuangbi@connect.ust.hk](mailto:rhuangbi@connect.ust.hk) <2024-11-14-Session-4 :fire:[feedback submit](https://forms.gle/zfwuj5ik9anUwz1D6)>
-    - SHI, Weijie [wshiah@connect.ust.hk](mailto:wshiah@connect.ust.hk) <2024-11-14-Session-5 :fire:[feedback submit](https://forms.gle/Wn7YfLUb7ydeHh1U7)>
+    - HUANG, Ruixuan [rhuangbi@connect.ust.hk](mailto:rhuangbi@connect.ust.hk) <2024-11-14-Session-4 [feedback submit](https://forms.gle/zfwuj5ik9anUwz1D6)>
+    - SHI, Weijie [wshiah@connect.ust.hk](mailto:wshiah@connect.ust.hk) <2024-11-14-Session-5 [feedback submit](https://forms.gle/Wn7YfLUb7ydeHh1U7)>
 - 32 - Multi-LLM Interaction
-    - ZHU, Xiaomeng [xzhubr@connect.ust.hk](mailto:xzhubr@connect.ust.hk) <2024-11-19-Session-4>
-    - Group 1: <2024-11-19-Session-1>   
+    - ZHU, Xiaomeng [xzhubr@connect.ust.hk](mailto:xzhubr@connect.ust.hk) <2024-11-19-Session-4 :fire:[feedback submit](https://forms.gle/HsnqdL1kYrHLBCqC7)>
+    - Group 1: <2024-11-19-Session-1 :fire:[feedback submit](https://forms.gle/geHKDn46nFQNA5XY9)>   
         - DING, Fangyu	[fdingad@connect.ust.hk](mailto:fdingad@connect.ust.hk)
         - LI, Chenyue [clieh@connect.ust.hk](mailto:clieh@connect.ust.hk)
 - 33 - Table-Augmented Generation
-    - Group 1:  <2024-11-19-Session-2>  
+    - Group 1:  <2024-11-19-Session-2 :fire:[feedback submit](https://forms.gle/5sJv5jn2tHsTHBwY6)>  
         - PENG, You [ypengbt@connect.ust.hk](mailto:ypengbt@connect.ust.hk)
         - ZHANG, Xinyi	[xzhangfz@connect.ust.hk](mailto:xzhangfz@connect.ust.hk)
 - 34 - Multimodal Retrieval Augmented Generation
-    - Group 1:  <2024-11-19-Session-3>
+    - Group 1:  <2024-11-19-Session-3 :fire:[feedback submit](https://forms.gle/uq1KNkY1Eii2qTba7)>
         - CHEN, Yiwei [ychenmb@connect.ust.hk](mailto:ychenmb@connect.ust.hk)
         - ZHANG, Yizhen [yzhangtf@connect.ust.hk](mailto:yzhangtf@connect.ust.hk)
     - FRIESKE, Rita	[rmfrieske@connect.ust.hk](mailto:rmfrieske@connect.ust.hk) <2024-11-21-Session-1>
