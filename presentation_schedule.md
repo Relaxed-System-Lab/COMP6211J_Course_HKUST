@@ -106,7 +106,7 @@
         - WANG, Jinjian	[jwangjx@connect.ust.hk](mailto:jwangjx@connect.ust.hk)
         - XU, Chi	[cxubs@connect.ust.hk](mailto:cxubs@connect.ust.hk)          
     - CHEN, Shanwen [schenfh@connect.ust.hk](mailto:schenfh@connect.ust.hk) <2024-11-21-Session-4 :fire:[feedback submit](https://forms.gle/M5Zw23LsRt8opxHCA)>
-    - CHEN, Xi	[xchengx@connect.ust.hk](mailto:xchengx@connect.ust.hk) <2024-11-21-Session-5>
+    - CHEN, Xi	[xchengx@connect.ust.hk](mailto:xchengx@connect.ust.hk) <2024-11-21-Session-5 :fire:[feedback submit](https://forms.gle/3mPaiZGQcKf2Zg2c6)>
 - 36 - Text Video Generation
     - Group 1: <2024-11-26-Session-1>    
         - LIU, Jiazhen [jliugj@connect.ust.hk](mailto:jliugj@connect.ust.hk)
