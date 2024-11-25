@@ -108,14 +108,14 @@
     - CHEN, Shanwen [schenfh@connect.ust.hk](mailto:schenfh@connect.ust.hk) <2024-11-21-Session-4 :fire:[feedback submit](https://forms.gle/M5Zw23LsRt8opxHCA)>
     - CHEN, Xi	[xchengx@connect.ust.hk](mailto:xchengx@connect.ust.hk) <2024-11-21-Session-5 :fire:[feedback submit](https://forms.gle/3mPaiZGQcKf2Zg2c6)>
 - 36 - Text Video Generation
-    - Group 1: <2024-11-26-Session-1>    
+    - Group 1: <2024-11-26-Session-1 :fire:[feedback submit](https://forms.gle/3sC25q2ezkrVC3a26)>    
         - LIU, Jiazhen [jliugj@connect.ust.hk](mailto:jliugj@connect.ust.hk)
         - MA, Yue [ymacn@connect.ust.hk](mailto:ymacn@connect.ust.hk)
-    - TSUI, Yuk Hang [yhtsui@connect.ust.hk](mailto:yhtsui@connect.ust.hk) <2024-11-26-Session-2>
-    - WOLFENSBERGER, Julien Etienne Maximilien [jemw@connect.ust.hk](mailto:jemw@connect.ust.hk) <2024-11-26-Session-3>
+    - TSUI, Yuk Hang [yhtsui@connect.ust.hk](mailto:yhtsui@connect.ust.hk) <2024-11-26-Session-2 :fire:[feedback submit](https://forms.gle/TQHJdKuufJhk6Nbk8)>
+    - WOLFENSBERGER, Julien Etienne Maximilien [jemw@connect.ust.hk](mailto:jemw@connect.ust.hk) <2024-11-26-Session-3 :fire:[feedback submit](https://forms.gle/aCcjYTs3AYKXrTCV9)>
 - 37 - text-to-3D Asset Generation
-    - FAN, Zhiyuan	[zfanau@connect.ust.hk](mailto:zfanau@connect.ust.hk) <2024-11-26-Session-4>
-    - HU, Siyan [shuas@connect.ust.hk](mailto:shuas@connect.ust.hk) <2024-11-26-Session-5>
+    - FAN, Zhiyuan	[zfanau@connect.ust.hk](mailto:zfanau@connect.ust.hk) <2024-11-26-Session-4 :fire:[feedback submit](https://forms.gle/pPLajW7MuWeH8CyNA)>
+    - HU, Siyan [shuas@connect.ust.hk](mailto:shuas@connect.ust.hk) <2024-11-26-Session-5 :fire:[feedback submit](https://forms.gle/rPN3uS4XpX5S6wZs9)>
     - YU, Runyi [ryuao@connect.ust.hk](mailto:ryuao@connect.ust.hk) <2024-11-28-Session-1>
 
 ### Self-proposed Topics:
