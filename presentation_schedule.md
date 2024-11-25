@@ -102,7 +102,7 @@
     - FRIESKE, Rita	[rmfrieske@connect.ust.hk](mailto:rmfrieske@connect.ust.hk) <2024-11-21-Session-1 [feedback submit](https://forms.gle/z8g2PyQkmNnhYSVJ6)>
     - YE, Zhen	[zyebe@connect.ust.hk](mailto:zyebe@connect.ust.hk) <2024-11-21-Session-2 [feedback submit](https://forms.gle/zwBNwjW9HGzEXWHv6)>
 - 35 - Text Image Generation
-    - Group 1: <2024-11-21-Session-3 :fire:[feedback submit](https://forms.gle/9WC6Ng81osUajfmF8)>
+    - Group 1: <2024-11-21-Session-3 [feedback submit](https://forms.gle/9WC6Ng81osUajfmF8)>
         - WANG, Jinjian	[jwangjx@connect.ust.hk](mailto:jwangjx@connect.ust.hk)
         - XU, Chi	[cxubs@connect.ust.hk](mailto:cxubs@connect.ust.hk)          
     - CHEN, Shanwen [schenfh@connect.ust.hk](mailto:schenfh@connect.ust.hk) <2024-11-21-Session-4 [feedback submit](https://forms.gle/M5Zw23LsRt8opxHCA)>
