@@ -99,14 +99,14 @@
     - Group 1:  <2024-11-19-Session-3 [feedback submit](https://forms.gle/uq1KNkY1Eii2qTba7)>
         - CHEN, Yiwei [ychenmb@connect.ust.hk](mailto:ychenmb@connect.ust.hk)
         - ZHANG, Yizhen [yzhangtf@connect.ust.hk](mailto:yzhangtf@connect.ust.hk)
-    - FRIESKE, Rita	[rmfrieske@connect.ust.hk](mailto:rmfrieske@connect.ust.hk) <2024-11-21-Session-1 :fire:[feedback submit](https://forms.gle/z8g2PyQkmNnhYSVJ6)>
-    - YE, Zhen	[zyebe@connect.ust.hk](mailto:zyebe@connect.ust.hk) <2024-11-21-Session-2 :fire:[feedback submit](https://forms.gle/zwBNwjW9HGzEXWHv6)>
+    - FRIESKE, Rita	[rmfrieske@connect.ust.hk](mailto:rmfrieske@connect.ust.hk) <2024-11-21-Session-1 [feedback submit](https://forms.gle/z8g2PyQkmNnhYSVJ6)>
+    - YE, Zhen	[zyebe@connect.ust.hk](mailto:zyebe@connect.ust.hk) <2024-11-21-Session-2 [feedback submit](https://forms.gle/zwBNwjW9HGzEXWHv6)>
 - 35 - Text Image Generation
     - Group 1: <2024-11-21-Session-3 :fire:[feedback submit](https://forms.gle/9WC6Ng81osUajfmF8)>
         - WANG, Jinjian	[jwangjx@connect.ust.hk](mailto:jwangjx@connect.ust.hk)
         - XU, Chi	[cxubs@connect.ust.hk](mailto:cxubs@connect.ust.hk)          
-    - CHEN, Shanwen [schenfh@connect.ust.hk](mailto:schenfh@connect.ust.hk) <2024-11-21-Session-4 :fire:[feedback submit](https://forms.gle/M5Zw23LsRt8opxHCA)>
-    - CHEN, Xi	[xchengx@connect.ust.hk](mailto:xchengx@connect.ust.hk) <2024-11-21-Session-5 :fire:[feedback submit](https://forms.gle/3mPaiZGQcKf2Zg2c6)>
+    - CHEN, Shanwen [schenfh@connect.ust.hk](mailto:schenfh@connect.ust.hk) <2024-11-21-Session-4 [feedback submit](https://forms.gle/M5Zw23LsRt8opxHCA)>
+    - CHEN, Xi	[xchengx@connect.ust.hk](mailto:xchengx@connect.ust.hk) <2024-11-21-Session-5 [feedback submit](https://forms.gle/3mPaiZGQcKf2Zg2c6)>
 - 36 - Text Video Generation
     - Group 1: <2024-11-26-Session-1 :fire:[feedback submit](https://forms.gle/3sC25q2ezkrVC3a26)>    
         - LIU, Jiazhen [jliugj@connect.ust.hk](mailto:jliugj@connect.ust.hk)
