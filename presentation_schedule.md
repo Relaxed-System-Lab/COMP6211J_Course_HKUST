@@ -116,17 +116,17 @@
 - 37 - text-to-3D Asset Generation
     - FAN, Zhiyuan	[zfanau@connect.ust.hk](mailto:zfanau@connect.ust.hk) <2024-11-26-Session-4 [feedback submit](https://forms.gle/pPLajW7MuWeH8CyNA)>
     - HU, Siyan [shuas@connect.ust.hk](mailto:shuas@connect.ust.hk) <2024-11-26-Session-5 [feedback submit](https://forms.gle/rPN3uS4XpX5S6wZs9)>
-    - YU, Runyi [ryuao@connect.ust.hk](mailto:ryuao@connect.ust.hk) <2024-11-28-Session-1 :fire:[feedback submit](https://forms.gle/7jsPmLGEiYXqNZYy5)>
+    - YU, Runyi [ryuao@connect.ust.hk](mailto:ryuao@connect.ust.hk) <2024-11-28-Session-1 [feedback submit](https://forms.gle/7jsPmLGEiYXqNZYy5)>
 
 ### Self-proposed Topics:
 
 - Multimodal Knowledge Graph
-    - CHAN, Wun Yu [wychanbu@connect.ust.hk](mailto:wychanbu@connect.ust.hk) <2024-11-28-Session-2 :fire:[feedback submit](https://forms.gle/917eFykz7PLrEStc7)>
+    - CHAN, Wun Yu [wychanbu@connect.ust.hk](mailto:wychanbu@connect.ust.hk) <2024-11-28-Session-2 [feedback submit](https://forms.gle/917eFykz7PLrEStc7)>
 - Hallucination of Large Language Model
-    - LI, Chun Chai Elton	[cceli@connect.ust.hk](mailto:cceli@connect.ust.hk) <2024-11-28-Session-3 :fire:[feedback submit](https://forms.gle/m2wNWRXH93dm7va37)>
+    - LI, Chun Chai Elton	[cceli@connect.ust.hk](mailto:cceli@connect.ust.hk) <2024-11-28-Session-3 [feedback submit](https://forms.gle/m2wNWRXH93dm7va37)>
 - Foundational Models as Agents
-    - CHAN, Ho Shu [hschanav@connect.ust.hk](mailto:hschanav@connect.ust.hk) <2024-11-28-Session-4 :fire:[feedback submit](https://forms.gle/Cb922eejCa3aGbZ8A)>
+    - CHAN, Ho Shu [hschanav@connect.ust.hk](mailto:hschanav@connect.ust.hk) <2024-11-28-Session-4 [feedback submit](https://forms.gle/Cb922eejCa3aGbZ8A)>
 - LLM for DL Library Fuzzing
-    - ZHANG, Kunpeng [kzhangcl@connect.ust.hk](mailto:kzhangcl@connect.ust.hk) <2024-11-28-Session-5 :fire:[feedback submit](https://forms.gle/AM3sXDX6tbgenm4s8)>
+    - ZHANG, Kunpeng [kzhangcl@connect.ust.hk](mailto:kzhangcl@connect.ust.hk) <2024-11-28-Session-5 [feedback submit](https://forms.gle/AM3sXDX6tbgenm4s8)>
 - ML System Simulation
-   - WANG, Jiashu [jwangjv@connect.ust.hk](mailto:jwangjv@connect.ust.hk) <2024-11-28-Session-6 :fire:[feedback submit](https://forms.gle/YGUPDfXDu5DmqxZXA)>
+   - WANG, Jiashu [jwangjv@connect.ust.hk](mailto:jwangjv@connect.ust.hk) <2024-11-28-Session-6 [feedback submit](https://forms.gle/YGUPDfXDu5DmqxZXA)>
